@@ -24,7 +24,7 @@
 - 🌱 Exploring **AI + Game Mechanics** integrations with Python and C++
 - 💬 Ask me about: `Unreal Engine`, `Game Design`, `OOP`, `Database Design`
 - 📫 How to reach me: **kaanb8776@gmail.com**
-- 🌍 Portfolio: [kaan-balci.com](https://www.kaan-balci.com)
+- 🌍 Portfolio: [kaan-balci.com](https://www.kaanbalci.com)
 - 📄 [View My Resume (PDF)](https://drive.google.com/file/d/11B4pkMxZTOc0be98fjrNRPNKK1P5UjHc/view?usp=drive_link) 
 ---
 
