@@ -1,82 +1,131 @@
-<!--
-**UAJOP/UAJOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Kaan Balcı
 
-![MasterHead](https://wallpapercave.com/wp/wp1966461.png)
+**AI Designer & Software Developer**
 
-### Hi there 👋
+Conversational AI · LLM Evaluation · Workflow Automation · Software Products
 
-<h3 align="center">A creative and curious full-stack developer, game designer & AI enthusiast from Turkey.</h3>
+[Portfolio](https://kaanbalci.com/) ·
+[LinkedIn](https://www.linkedin.com/in/balcikaan/) ·
+[Resume](https://drive.google.com/file/d/1eERVaYoP-ICuP3xfbzpaDaCo5amwqA8u/view?usp=sharing) ·
+[Email](mailto:kaanb8776@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UAJOP&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats)
-<br><br>
+## Professional Summary
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UAJOP&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+I work across conversational AI, LLM evaluation, workflow automation and software
+development. My experience includes supporting enterprise chatbot, live-chat, IVR
+and multi-channel automation workflows; evaluating model outputs through structured
+AI quality tasks; and building practical digital products, web experiences and
+operational automations.
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uajop&label=Profile%20views&color=0e75b6&style=flat" alt="uajop" /> </p>
-<br>
+I’m especially interested in roles where user needs, AI behavior, workflow logic
+and software implementation come together.
 
----
+## Focus Areas
 
-- 🎮 Currently working on **Unreal Engine 5 platformers & simulation games**
-- 📱 Also building mobile apps with **Android Studio** and **Firebase**
-- 🌱 Exploring **AI + Game Mechanics** integrations with Python and C++
-- 💬 Ask me about: `Unreal Engine`, `Game Design`, `OOP`, `Database Design`
-- 📫 How to reach me: **kaanb8776@gmail.com**
-- 🌍 Portfolio: [kaan-balci.com](https://www.kaanbalci.com)
-- 📄 [View My Resume (PDF)](https://drive.google.com/file/d/11B4pkMxZTOc0be98fjrNRPNKK1P5UjHc/view?usp=drive_link) 
----
+- **Conversational AI:** chatbot flows, intent and response organization, fallback
+  behavior, human handoff and multi-channel journeys
+- **LLM Evaluation:** response quality, reasoning checks, prompt analysis, instruction
+  following and multimodal assessment
+- **Workflow Automation:** n8n-style flow logic, Google Apps Script and operational automation
+- **Software Products:** Python, JavaScript, C#/.NET, SQL and responsive web development
+- **Digital Product Experience:** user journeys, reservation flows, customer-facing
+  systems and practical implementation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/balcikaan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balcikaan" height="30" width="40" />
-  </a>
-  <a href="https://github.com/UAJOP" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" />
-  </a>
-  <a href="https://kaan-balci.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
-  </a>
-</p>
+## Selected Work
 
----
+### Professional Portfolio
 
-<h3 align="left">Languages and Tools:</h3>
+A bilingual professional portfolio featuring conversational AI, workflow
+automation, software-development projects and detailed case studies.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
-</p>
+[Repository](https://github.com/UAJOP/portfolio) ·
+[Live Portfolio](https://kaanbalci.com/)
 
----
+### AI Flow Puzzle
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/kaanbalci"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaanbalci" />
-  </a>
-</p>
-<br><br><br>
+An interactive, n8n-inspired workflow simulator featuring draggable chatbot nodes,
+routing logic, validation, scoring and debugging feedback.
 
----
+[Case Study](https://kaanbalci.com/ai-flow-puzzle-case-study.html) ·
+[Live Experience](https://kaanbalci.com/ai-flow-puzzle.html)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UAJOP&show_icons=true&locale=en&layout=compact" alt="uajop" /></p>
-<br><br><br><br><br><br>
+### Atölye Joyday
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=UAJOP&show_icons=true&locale=en" alt="uajop" /></p>
+A live business project combining a bilingual website, package-based reservation
+journeys and Google Forms, Sheets and Apps Script automation.
 
----
+[Case Study](https://kaanbalci.com/atolye-joyday-case-study.html) ·
+[Live Website](https://atolyejoyday.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UAJOP&theme=prussian)](https://git.io/streak-stats)
+### Hospital System
+
+A documented 2024 C# Windows Forms and SQL Server source archive covering patient,
+doctor and secretary workflows.
+
+[Source Archive](https://github.com/UAJOP/Hospital-System) ·
+[Case Study](https://kaanbalci.com/hospital-system-case-study.html)
+
+### Cars Dataset Analysis
+
+A Python exploratory data-analysis project combining data cleaning, visualization
+and automotive dataset analysis.
+
+[Repository](https://github.com/UAJOP/Cars-Dataset-Analysis)
+
+### Agency Database
+
+An academic relational-database project modeling agency operations, employees,
+assignments and structured SQL workflows.
+
+[Repository](https://github.com/UAJOP/Agency-Db)
+
+## Experience Snapshot
+
+- **Atölye Joyday — Co-Founder & Digital Product Developer**
+
+  Built the bilingual website, reservation journey and Google-based application and
+  notification workflows used in the studio’s digital operations.
+
+- **CBOT — AI Designer**
+
+  Contributed to enterprise chatbot, live-chat, IVR and multi-channel automation
+  work through QA, flow organization, testing and transition support.
+
+- **Outlier AI — AI Training Specialist, Project-Based**
+
+  Evaluated and improved LLM outputs through structured AI training and
+  quality-assessment tasks involving code, reasoning and multimodal responses.
+
+## Technical Toolkit
+
+**AI & Automation**
+
+Conversational AI, LLM Evaluation, Prompt Analysis, Multimodal Testing, n8n,
+Google Apps Script
+
+**Software Development**
+
+Python, JavaScript, C#, .NET, Java, Kotlin, SQL
+
+**Web & Product**
+
+HTML, CSS, Responsive Design, User Flows, Digital Product Development
+
+**Tools**
+
+Git, GitHub, Visual Studio, VS Code, Android Studio, Google Sheets, Google Forms
+
+## Current Direction
+
+I’m currently focused on opportunities in AI Design, Conversational AI, LLM
+Evaluation, Workflow Automation, AI Product and Solution Engineering.
+
+Based in Istanbul and open to remote, hybrid and suitable relocation opportunities.
+
+## Contact
+
+- [Portfolio — kaanbalci.com](https://kaanbalci.com/)
+- [LinkedIn — Kaan Balcı](https://www.linkedin.com/in/balcikaan/)
+- [GitHub — UAJOP](https://github.com/UAJOP)
+- [Email — kaanb8776@gmail.com](mailto:kaanb8776@gmail.com)
+- [Resume — Google Drive](https://drive.google.com/file/d/1eERVaYoP-ICuP3xfbzpaDaCo5amwqA8u/view?usp=sharing)
